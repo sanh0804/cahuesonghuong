@@ -1996,3 +1996,13 @@ html:not(.no-js) [data-aos=fade-left] {
     transform: translate3d(100px, 0, 0);
 }
 }
+
+
+.tablePrice {
+    height: 100% !important;
+    width: 100% !important;
+}
+.divPrice {
+    height: 1000px;
+    
+}
